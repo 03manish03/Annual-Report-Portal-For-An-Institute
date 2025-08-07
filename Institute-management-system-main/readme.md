@@ -89,6 +89,19 @@ Start Apache & MySQL (XAMPP / WAMP)
 Visit the project in your browser:
 http://localhost/Institute-management-system-main/Login/login.php
 
+For your convenience, here are the default login credentials for the initial setup:
+
+Admin:
+Username: admin@admin.com
+Password: 123
+Teacher:
+Username: Riya@teacher.com
+Password: 123
+Student:
+Username: anika@student.com
+Password: 123
+Please remember to change the default passwords for security purposes after the initial setup.
+
 📈 Future Scope
 🔄 Integration with Power BI for visual analytics.
 
