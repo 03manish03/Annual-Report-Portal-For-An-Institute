@@ -1,4 +1,4 @@
-# 🎓 Institute Management System
+# 🎓 Institute Management System(annual report portal)
 
 A role-based web application for managing academic institutions — built with PHP & MySQL. It enables seamless management of students, faculty, and administrative operations through a unified platform.
 
